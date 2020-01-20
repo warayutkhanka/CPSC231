@@ -6,15 +6,27 @@
 [Clojure](https://github.com/warayutkhanka/CPSC231/blob/master/Clojure.txt)
 
 [Dart](https://github.com/warayutkhanka/CPSC231/blob/master/DART.txt)
+
 [Elixir](https://github.com/warayutkhanka/CPSC231/blob/master/Elixir.txt)
+
 [java](https://github.com/warayutkhanka/CPSC231/blob/master/JAVA.txt)
+
 [php](https://github.com/warayutkhanka/CPSC231/blob/master/PHP.txt)
+
 [Python](https://github.com/warayutkhanka/CPSC231/blob/master/Python.txt)
+
 [Ruby](https://github.com/warayutkhanka/CPSC231/blob/master/RUBY.txt)
+
 [Racket](https://github.com/warayutkhanka/CPSC231/blob/master/Racket.txt)
+
 [Swift](https://github.com/warayutkhanka/CPSC231/blob/master/Swift.txt)
+
 [Visual-Basic](https://github.com/warayutkhanka/CPSC231/blob/master/Visal-Basic.txt)
+
 [Yabasic](https://github.com/warayutkhanka/CPSC231/blob/master/YaBasic.txt)
+
 [C#](https://github.com/warayutkhanka/CPSC231/blob/master/c%23.txt)
+
 [C++](https://github.com/warayutkhanka/CPSC231/blob/master/c%2B%2B.txt)
+
 [VB.net](https://github.com/warayutkhanka/CPSC231/blob/master/vb.net.txt)
