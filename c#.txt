@@ -1,0 +1,15 @@
+using System;
+
+class WhileLoop
+{
+    static void Main(string[] args)
+    {
+        int n = 1;
+        while (n <= 10)
+        {
+            Console.WriteLine("Loop " + n);
+            n++;
+        }
+        Console.WriteLine("Loop ended");
+    }
+}

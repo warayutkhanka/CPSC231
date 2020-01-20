@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    char ch;
+    do
+    {
+        cout << "Enter 'n' to exit loop: ";
+        cin >> ch;
+    }
+    while (ch != 'n');
+    cout << "Exit from the loop.";
+    return 0;
+}

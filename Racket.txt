@@ -1,0 +1,10 @@
+(define-syntax for-loop
+  (syntax-rules ()
+    ((_ (VAR START END) BODY0 BODY1 ...)
+     (let ((end-val END))
+       (let loop ((VAR START))
+         (if (> VAR end-val)
+             (void)
+             (begin BODY0 BODY1 ...
+                    (loop (add1 VAR)))))))))
+(for-loop (i 1 10) (print i))
