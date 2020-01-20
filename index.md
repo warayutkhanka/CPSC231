@@ -1,5 +1,5 @@
 ###  Loop code
-#[C](https://github.com/warayutkhanka/CPSC231/blob/master/C.txt)
+[C]#(https://github.com/warayutkhanka/CPSC231/blob/master/C.txt)
 
 #[COBOL](https://github.com/warayutkhanka/CPSC231/blob/master/COBOL.txt) 
 [Clojure](https://github.com/warayutkhanka/CPSC231/blob/master/Clojure.txt)
