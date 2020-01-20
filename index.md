@@ -78,7 +78,7 @@ footer p{
    <section>
     <nav>
         <ul>
-          <li><a href="test2.html">home</a></li> 
+          <li><a href="Home.html">home</a></li> 
           <li><a href="profile.html">profile</a></li>
           <li><a href="myidol.html">Myidol</a> </li>
           <li> <a href="movie.html">movie</a></li>
