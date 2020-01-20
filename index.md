@@ -82,7 +82,7 @@ footer p{
           <li><a href="profile.html">profile</a></li>
           <li><a href="myidol.html">Myidol</a> </li>
           <li> <a href="movie.html">movie</a></li>
-            <li> <a href="Work.html">Work</a></li>
+          <li> <a href="Work.html">Work</a></li>
           <li><a href="https://github.com/warayutkhanka">github</a></li>
         </ul>
     </nav>
