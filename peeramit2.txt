@@ -1,0 +1,23 @@
+<html><body><font size=5>
+<pre style="font-family:courier;">
+<script>
+for(r=1;r<=5;r++)
+{
+	document.write(r);
+	for(c=1;c<=(10-r);c++)
+	{
+	document.write("*");
+	}
+	for(c=2;c<=(r);c++)
+	{
+	document.write(" ");
+	}
+	document.write(6-r);
+	document.write("\n");
+}
+
+document.write("\n");
+document.write("nueng 6108111004");
+</script>
+</pre></font></body></html>
+

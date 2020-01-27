@@ -1,0 +1,27 @@
+<html><body><font size=5>
+<pre style="font-family:courier;">
+<script>
+for(r=1;r<=4;r++) {
+	for(c=2;c<=0+r;c++) {
+		document.write(" ");
+	}
+	
+	for(c=r;c<=r+1;c++) {
+		document.write(r);
+	}
+	
+	for(c=1;c<=4-r;c++){
+		document.write("**");
+	}
+	
+	for(c=r;c<=r+1;c++) {
+		document.write(r);
+	}
+	
+	document.write("\n");
+}
+document.write("\n");
+document.write("Nueng 6108111004");
+</script>
+</pre></font></body></html>
+

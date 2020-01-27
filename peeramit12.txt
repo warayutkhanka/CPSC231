@@ -1,0 +1,22 @@
+<html><body><font size=5>
+<pre style="font-family:courier;">
+<script>
+for(r=1; r<= 7; r++) {
+ // Column have 4 parts
+ for(c=1;c<=7 - r + 1;c++){ 
+  document.write(" "); 
+ }
+ for(c=1; c <= r ; c++) { 
+  document.write( c ); 
+ }
+ document.write( r );
+ for(c=r; c >= 1 ; c--) { 
+  document.write( c ); 
+ }
+ document.write("\n");
+}
+document.write("\n");
+document.write("Nueng 6108111004");
+</script>
+</pre></font></body></html>
+
